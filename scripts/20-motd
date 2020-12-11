@@ -1,0 +1,7 @@
+#!/bin/bash
+echo " "
+echo "(=ↀωↀ=)"
+echo "WaTCH OUT KITTY ON KEYBOARD"
+shuf -zer -n$(( RANDOM % 100 ))  {A..Z} {a..z} {0..9} 
+echo " "
+echo "bad bad kitty!"
