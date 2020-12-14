@@ -14,8 +14,15 @@ Creates new users
 
 Usage: newuser USERNAME "USER_PUBLIC_KEY"
 ***
-> [scripts/20-motd.sh](scripts/20-motd)
+> [scripts/20-motd](scripts/20-motd)
 
-the motd
+The silly MOTD (=ↀωↀ=) 
 
-goes into /etc/update-motd.d/20-motd
+Usage: goes into /etc/update-motd.d/
+
+***
+> [skel](skel) directory
+
+Skeleton for new users
+
+Usage: directory goes into /etc/skel
